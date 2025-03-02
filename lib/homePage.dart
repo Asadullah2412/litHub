@@ -32,8 +32,8 @@ class _HomepageState extends State<Homepage> {
             summary:
                 'An insightful guide on how to build good habits and break bad ones, emphasizing the power of small, consistent changes to transform one\'s life.'),
         BookInfo(
-            bookname: 'The Subtle Art of Not Giving a F*ck',
-            author: 'Mark Manson',
+            bookname: 'Man search for Meaning',
+            author: 'VICTOR E. FRANKL',
             price: 'Rs 299',
             rating: '4.5',
             context: context,
